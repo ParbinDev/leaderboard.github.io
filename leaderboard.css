@@ -82,7 +82,7 @@ opacity:0.9;
 
 	left: 30px;
 
-	background: #ffd300;
+	background: #0c999c;
 
 	width: 100%;
 
@@ -364,8 +364,13 @@ h2{
 
  left:130px;
 
- top:70px;
+ top:-750px;
 
  font-size:25px;
 
  }
+img
+{
+width:450px;
+height:800px;
+}
