@@ -34,7 +34,7 @@ background-color: #1F2833;
 
 	margin: 100px auto 0;
 
-	background: #b00007;
+	background: #26877f;
 
 	padding: 25px 40px;
 
@@ -43,7 +43,7 @@ background-color: #1F2833;
 	top:80px;
 
 	border-radius: 5px;
-
+opacity:0.9;
 }
 
 .lboard_section .lboard_tabs ul{
