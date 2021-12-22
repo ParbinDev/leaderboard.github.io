@@ -374,3 +374,7 @@ img
 width:450px;
 height:800px;
 }
+.box{
+				position:relative;
+				top:100px;
+}
